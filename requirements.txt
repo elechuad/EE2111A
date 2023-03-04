@@ -1,3 +1,2 @@
 numpy==1.14.5
-scipy==1.9.0
 maplotlib==3.6.2
